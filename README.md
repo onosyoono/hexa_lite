@@ -1,2 +1,2 @@
 # hexa_lite
-This is a bad idea
+A brief descriptor for searching and indexing of PDF files using TF-IDF encodings.
